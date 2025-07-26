@@ -32,6 +32,10 @@ A feature-rich full-stack web platform inspired by Airbnb, developed using the M
 ### Maps & Visualization:
 - **Mapbox**: For interactive map features.
 
+### Deployment:
+- **Render**: For UI deployment.
+- **MongoDB Atlas**: Database hosting.
+
 ### Other:
 - **Session Handling**: Manage user login sessions with cookies and MongoDB storage.
 
