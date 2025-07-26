@@ -1,4 +1,4 @@
-# Travel Website
+# Airbnb-Inspired Full-Stack Web Application
 
 A feature-rich full-stack web platform inspired by Airbnb, developed using the MERN stack (MongoDB, Express.js, React.js, Node.js). This application enables users to explore travel listings, add new properties, write and view reviews, and manage bookings. It includes robust features such as user authentication, secure data handling, and a highly interactive user experience.
 
